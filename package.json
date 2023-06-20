@@ -1,5 +1,5 @@
 {
-  "name": "ma_yuankai_cs554_lab7",
+  "name": "Shaohua_Bi",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,7 +8,7 @@
     "start": "node app.js",
     "build": "gulp build"
   },
-  "author": "Yuankai Ma 10479338",
+  "author": "Shaohua_Bi",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
